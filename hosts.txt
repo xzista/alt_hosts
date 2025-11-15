@@ -79,3 +79,5 @@
 50.7.85.220 api.us.elevenlabs.io
 50.7.85.220 builds.parsec.app
 50.7.85.220 developer.android.com
+
+185.246.223.127
